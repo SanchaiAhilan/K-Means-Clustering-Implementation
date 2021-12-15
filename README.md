@@ -32,7 +32,7 @@ The working of the K-Means algorithm is explained in the below steps:
 
 
 ## Screenshots
-![kmeans](https://user-images.githubusercontent.com/89059194/146177460-a409b2c9-9469-4fb0-b5ee-837e409c9ce4.png)
+![kmeans](https://user-images.githubusercontent.com/89059194/146177523-c70cd532-c8cb-4ce3-b41e-eb9aa8446fa7.png)
 
 
 ## Dataset
